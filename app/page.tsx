@@ -24,7 +24,7 @@ export default function Home() {
         {/* Hero */}
         <section className="flex flex-col items-center gap-12 py-24 text-center">
           <h1 className="text-5xl font-black sm:text-6xl">
-            Test Your Knowledge Here
+            Test Your Knowledge New Update
           </h1>
 
           <p className="max-w-2xl text-slate-600 dark:text-slate-400">
